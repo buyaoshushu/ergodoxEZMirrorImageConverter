@@ -7,6 +7,7 @@
 
 # 准备工具
 ### 编译会用到的依赖
+pacman 只用于archlinux,其他发行版请自行研究如何安装依赖。
 ```
 pacman -S avr-gcc avr-libc teensy-loader-cli
 ```
